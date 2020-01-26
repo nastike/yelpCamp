@@ -31,3 +31,4 @@ app.get("/campgrounds/new", (req,res)=>{
 app.listen(4000, ()=>{
     console.log("The YelpCamp Server is runing")
 });
+console.log("Random Stuff again");
